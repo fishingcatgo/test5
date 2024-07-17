@@ -29,3 +29,6 @@ batch_size=9
 for key,bat in enumerate([batch[i:i + batch_size] for i in range(0, len(batch), batch_size)]):
     print('标记：',key*batch_size)
     print(f'第{key}个',bat)
+
+
+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
